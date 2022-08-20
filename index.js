@@ -100,5 +100,5 @@ function fizzBuzz(min, max){
       else return 'The discriminant is less than 0';
 }
 
-let func = quadraticEquation(1, 0, -4);
-console.log(func); 
+// let func = quadraticEquation(1, 0, -4); //
+// console.log(func); //
